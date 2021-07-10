@@ -7,7 +7,7 @@
 - How our 7 Days of Web Development helped you in making this project?
 -   IT HELPED ME IN LEARNING NEW THINGS ND DISCOVRING NEW TAGS.
 - Hosted link
-- https://github.com/nikhilesh-01/HOTEL-CHECKIN
+- https://nikhilesh-01.github.io/HOTEL-CHECKIN/
 - Your name, registration number.
 - NAME- NIKHILESH SAHOO
 - REDG NO-1941012020
